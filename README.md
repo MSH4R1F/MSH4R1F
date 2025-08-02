@@ -5,9 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-Based on what I know about you, here’s a concise and compelling GitHub profile summary tailored to your experience, interests, and personality:
-
----
 
 ### i'm Mohamed Sharif
 
