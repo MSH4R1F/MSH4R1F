@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 I scaled distributed training infrastructure with Pytorch and built monetization tools in Dojo using **C# .NET**, **React**, and **GraphQL**.
 
 Currently building **[nymb.ly](https://nymb.ly)** — Your Personal Context Engine - turning Chaos into Context.
+
+i'm building in public @sharifspaces on X
