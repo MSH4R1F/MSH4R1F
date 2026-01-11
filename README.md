@@ -39,7 +39,6 @@ typescript/react/next.js • python/flask/fastapi • c#/.net • aws • sql �
 - **give back to your community** - people invested in you when you had nothing to offer. remember where you came from.
 - **think about your life from the whys** - why am i in this situation, why do i work so hard, why am i making money, then work your way up and you'll see your world view solidify. 
 
-## i'm looking to break out of the hood
 
 if you're working on any ai products, dev tools, edtech, or anything -  hmu. always down to provide ideas or collaborate.
 
