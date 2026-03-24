@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 # hey, i'm mohamed 👋
 
-**trying to be a student, builder, content creator whilst still trying to have a life**
 
 i'm currently in my final year CS at Imperial (specializing in AI/ML). i don't really go to lectures and spend my time trying to make the most of my uni experience building, writing, meeting new people, creating content and learning new pieces of content
 
