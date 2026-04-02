@@ -32,11 +32,6 @@ typescript/react/next.js • python/flask/fastapi • c#/.net • aws • sql �
 
 - part of some startup communities (Redwood Founders) and stem muslims -> check them out
 
-## some notes 
-- **build for the people you love**. your vc won't be there on your deathbed. your family will. the late nights, the grind comes back to making a better life for them. that's all you need for motivation
-- **agency** - in this day and age, believe in someone that you know will get the job done no matter what
-- **give back to your community** - people invested in you when you had nothing to offer. remember where you came from.
-- **think about your life from the whys** - why am i in this situation, why do i work so hard, why am i making money, then work your way up and you'll see your world view solidify. 
 
 
 if you're working on any ai products, dev tools, edtech, or anything -  hmu. always down to provide ideas or collaborate.
