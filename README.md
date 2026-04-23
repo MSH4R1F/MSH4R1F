@@ -27,9 +27,6 @@ plus 100 random sidequest projects
 typescript/react/next.js • python/flask/fastapi • c#/.net • aws • sql • java • c++
 
 ## other stuff about me
-
-- i make **tiktoks/linkedin posts** about startup building, ai engineering, how to get into tech, and the whole "student → founder" journey. yeah slightly cringe ik but follow me -> https://tiktok.com/@mshar1f and https://linkedin.com/in/mohamed-sharif-stemm
-
 - part of some startup communities (Redwood Founders) and stem muslims -> check them out
 
 
