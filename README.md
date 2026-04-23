@@ -22,7 +22,7 @@ i'm currently in my final year CS at Imperial (specializing in AI/ML). i don't r
 
 plus 100 random sidequest projects
 
-## tech i actually use
+## frameworks
 
 typescript/react/next.js • python/flask/fastapi • c#/.net • aws • sql • java • c++
 
